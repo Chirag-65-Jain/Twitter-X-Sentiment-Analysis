@@ -1,4 +1,4 @@
 # Twitter-X-Sentiment-Analysis
-**//This is an University project**
+_**//This is an University project**_
 
-Twitter/X sentiment analyser will use a comprehensive decision-making model to analyse the sentiments behind a tweet made by an user.
+Twitter/X sentiment analyser will use a comprehensive decision-making model to analyse the sentiments behind a tweet made by a user.
