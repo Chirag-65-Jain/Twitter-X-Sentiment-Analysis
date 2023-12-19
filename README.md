@@ -1,6 +1,6 @@
 # Twitter-X-Sentiment-Analysis
 ***
-_**/This is an University project**_
+_**This is an University project**_
 
 This project aims to provide insight into the emotions expressed via tweets during the COVID-19 period of 2021.
 
