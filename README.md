@@ -11,16 +11,17 @@ Data visualisation was carried out after the file was saved and a line chart was
 All of these functions were accessed via a window which popped upon th execution of the program, that allows the user to enter the path of the file to be analysed and visualise.
 
 Packages:
-  tkinter
-  Pandas
-  Natural language toolkit(nltk)
-  spacy
-  sklearn
-  matplotlib
-  seaborn
-  contractions
-  re
-  os
+  *tkinter
+  *Pandas
+  *Natural language toolkit(nltk)
+  *spacy
+  *sklearn
+  *matplotlib
+  *seaborn
+  *contractions
+  *re
+  *os
+
 References: 
-  [VADER Documentation](https://github.com/cjhutto/vaderSentiment)
+  *[VADER Documentation](https://github.com/cjhutto/vaderSentiment)
   
